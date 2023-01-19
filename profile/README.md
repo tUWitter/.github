@@ -1,5 +1,5 @@
 # Who wer are
-We the Group 10 for the course project of [ECE651](https://uwflow.com/course/ece651). 
+We are the Group 10 for the course project of [ECE651](https://uwflow.com/course/ece651). 
 
 
 # What we want to build
