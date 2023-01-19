@@ -12,3 +12,8 @@ The main obstacle to having more voices heard is peer pressure: young people ten
 We want to help UW students to share their opinions with the community. We believe anonymity can solve the peer pressure problem. We want to build an anonymous web application that resembles Twitter. There is a single timeline of anonymous posts for whole UW community. Compared to other social platforms for the general user group, such as Instagram, this web application gather UW information in one place and thus saves students' time. Compared to Reddit, Which also provides anonymity, this web application provide better mobile user experience.
 
 The final web app should provide a safe space for UW students to speak out. It will not tolerate hate speech and violent content.
+
+
+# Architecture 
+
+TBD
