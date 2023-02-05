@@ -1,4 +1,4 @@
-# Who wer are
+# Who we are
 We are the Group 10 for the course project of [ECE651](https://uwflow.com/course/ece651). 
 
 
